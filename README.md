@@ -51,7 +51,7 @@
 ### Mengambil String Session
 
 [![String Session](https://telegra.ph/file/1d4eebb68371414fc42ff.jpg)](https://t.me/StringSessionGeneratorRobot)
-Di buat oleh [Apis](t.me/PacarFerdilla)
+Di buat oleh [Apis](t.me/UsuBanjar)
 
 ```
 Klik logo di atas jika mau String Session
@@ -59,7 +59,7 @@ Klik logo di atas jika mau String Session
 
 ### Deploy ke heroku <h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/apisuserbot/Music-King.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/usugeming022/ZonaKalimantan-Music)
 
 ```
 Klik deploy to heroku untuk deploy
